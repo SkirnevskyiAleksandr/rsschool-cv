@@ -9,3 +9,13 @@
   experience in areas such as: taxation (more than 6 years in the tax service), construction (I can and I know how to build
 @@ -19,11 +19,11 @@
   [All my projects](https://github.com/SkirnevskyiAleksandr)
+## Education
+  [My IT Diploms](https://drive.google.com/drive/folders/1N0gMHUQI5fvMuNIPcSsrlgcdhfy7Uerg)
+- **Advanced Frontend-Web-Developer** - 2020 (HTML CSS JS PHP MySQL&PHP Bootstrap 4 E-Commerce )  
+    "IT Nation" (USAID "Economic support for Eastern Ukraine")
+- **Master Degree of Electronics and Telecommunications 2006**  
+    Volodymyr Dahl East Ukrainian National University
+- **Master Degree of Economics and Audit - 2010**  
+    Volodymyr Dahl East Ukrainian National University*
+## English
+  Intermediate 
