@@ -6,8 +6,8 @@
 - Tel: +380669877703
 ## Summary
   At this moment I am a beginner developer and I do not have much experience, but I have a good practical
-  experience in areas such as: taxation (more than 6 years in the tax service), construction (I can and I know how to build
-@@ -19,11 +19,11 @@
+  experience in areas such as: taxation *more than 6 years in the tax service*, construction *I can and I know how to build
+house by myselve*
   [All my projects](https://github.com/SkirnevskyiAleksandr)
 ## Education
   [My IT Diploms](https://drive.google.com/drive/folders/1N0gMHUQI5fvMuNIPcSsrlgcdhfy7Uerg)
