@@ -1,2 +1,2 @@
-# rsschool-cv
-https://SkirnevskyiAleksandr.github.io/rsschool-cv/cv
+# rsschool-cv-html
+https://skirnevskyialeksandr.github.io/rsschool-cv/
