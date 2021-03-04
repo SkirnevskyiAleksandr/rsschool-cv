@@ -2,7 +2,6 @@
 	padding: 0;
 	margin: 0;
 	box-sizing: border-box;
-	/*font-size: 14px;*/
 }
 
 body {
@@ -26,17 +25,11 @@ aside {
 	padding-bottom: 40px;
 	background-color: #1e2939;
 	color: white;
-	/*line-height: 26px;*/
 }
 
-.my-photo {
-	/*width: 370px;*/
-	width: 100%;
-}
+.my-photo {width: 100%;}
 
-.info-mobile {
-	display: none;
-}
+.info-mobile {display: none;}
 
 .contacts,
 .tech-skills,
@@ -54,28 +47,21 @@ aside li {
 	color: #ff6b08;
 }
 
-.tech-skills__category {
-	color: #8f949c;
-}
+.tech-skills__category {color: #8f949c;}
 
 .tech-skills__name,
 .soft-skills__name {
 	color: #fff;
 }
 
-main {
-	padding: 50px 50px;
-}
+main {padding: 50px 50px;}
 
 main li {
 	margin-left: 15px;
 	color: #555;
 }
 
-h1 {
-	/*color: #555;*/
-	color: #8f949c;
-}
+h1 {color: #8f949c;}
 
 .info-container h1 {
 	margin: 20px 0;
@@ -83,13 +69,9 @@ h1 {
 
 }
 
-.info-container h2 {
-	margin: 20px 0;
-}
+.info-container h2 {margin: 20px 0;}
 
-.experience__item {
-	margin-bottom: 20px;
-}
+.experience__item {margin-bottom: 20px;}
 
 .experience__duties {
 	font-size: 16px;
@@ -108,22 +90,13 @@ h1 {
 	font-size: 16px;
 }
 
-.experience__proj-name {
-	font-weight: bold;
-}
+.experience__proj-name {font-weight: bold;}
 
-.education__item {
-	margin-bottom: 15px;
-}
+.education__item {margin-bottom: 15px;}
 
-.education__specialty {
-	/*color: #ff6b08;*/
-	font-weight: bold;
-}
+.education__specialty {font-weight: bold;}
 
-.education__period {
-	color: #8f949c;
-}
+.education__period {color: #8f949c;}
 
 
 a {
@@ -132,19 +105,13 @@ a {
 	transition: all ease 0.3s;
 }
 
-a:hover {
-	color: #FDA367;
-}
+a:hover {color: #FDA367;}
 
 /*=========================  media-queries ============================*/
 
 @media screen and (max-width: 991px) {
-	body {
-		padding: 0;
-	}
-	.wrapper {
-		width: 100%;
-	}
+	body {padding: 0;}
+	.wrapper {width: 100%;}
 }
 
 @media screen and (max-width: 767px) {
@@ -153,26 +120,17 @@ a:hover {
 	.soft-skills {
 		margin: 20px 20px;
 	}
-	.title {
-		margin-top: 20px;
-	}
-	main {
-		padding: 20px;
-	}
+	.title {margin-top: 20px;}
+	main {padding: 20px;}
 }
 
 @media screen and (max-width: 650px)  {
-	.wrapper {
-		flex-direction: column;
-	}
+	.wrapper {flex-direction: column;}
 	aside {
 		width: 100%;
-		/*padding-top: 10px;
-		padding-bottom: 10px;*/
 		padding: 15px;
 	}
 	.my-photo {
-		/*width: 270px;*/
 		width: 40%;
 		float: right;
 		margin: 10px;
@@ -186,13 +144,9 @@ a:hover {
 		line-height: 48px;
 	}
 	.info-container h1,
-	.info-container h2 {
-		display: none;
-	}
+	.info-container h2 {display: none;}
 }
 
 @media screen and (max-width: 479px) {
-	.my-photo {
-		display: none;
-	}
+	.my-photo {display: none;}
 }
